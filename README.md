@@ -1,1 +1,1 @@
-# Albatross-Codaholic
+Repository dedicated for learning, recap and more 
