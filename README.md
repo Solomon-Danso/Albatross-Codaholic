@@ -10,3 +10,11 @@
 6:00 pm to 10:00 pm => HDSS Project
 
 NB: Should be followed Strictly
+
+
+By The end of May 2024
+1. Completed HDSS
+2. Spring Boot, Dotnet Mvc, Laravel Mvc,Angular
+3. Data structure and algorithm part 1
+4. Console Programming in Java, C#, PHP, Typescript. 
+5. Mastering Database
